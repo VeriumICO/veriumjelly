@@ -1,0 +1,2 @@
+# veriumjelly
+Verium is an open blockchain platform that lets anyone build and use decentralised applications that run on blockchain technology. Like Bitcoin, no one controls or owns Verium – it is an open-source project built by many people around the world. But unlike the Bitcoin protocol, Verium was designed to be adaptable and flexible. It is easy to create new applications on the Verium platform, and with the Veriumjelly release, it is now safe for anyone to use those applications.
